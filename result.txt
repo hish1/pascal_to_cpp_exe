@@ -1,0 +1,4 @@
+SupportClasses.NodeProgram
+|+-identifier: V1
+|+-global_declaration: SupportClasses.NodeDeclarationPart
+|+-statement_part: SupportClasses.NodeStatementPart
